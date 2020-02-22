@@ -2,7 +2,6 @@
 STEPS TO USE 
 Install node modules using:-
 npm i express
-npm i request
-npm i body-parser 
+request body-parser 
 
 # HOLA
